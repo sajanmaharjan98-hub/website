@@ -1,20 +1,28 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
-    <title>Sweksha Beauty Solutions</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My MBA Project</title>
+    <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    <h1>Welcome to Swekshabeauty</h1>
-    <p>We provide beauty online productsof Australian brand.</p>
+    <header>
+        <h1>Welcome to My MBA Project Website</h1>
+    </header>
 
-    <h2>Our Services</h2>
-    <ul>
-        <li>Beauty Products</li>
-        <li>Beauty Consultation</li>
-        <li>Hair Products</li>
-    </ul>
+    <section id="about">
+        <h2>About This Project</h2>
+        <p>This website is created as part of my MBA class assignment.</p>
+    </section>
 
-    <h2>Contact</h2>
-    <p>Email: info@swekshabeauty.com</p>
+    <section id="contact">
+        <h2>Contact</h2>
+        <p>Email: yourname@example.com</p>
+    </section>
+
+    <footer>
+        <p>&copy; 2026 My MBA Project. All rights reserved.</p>
+    </footer>
 </body>
 </html>
